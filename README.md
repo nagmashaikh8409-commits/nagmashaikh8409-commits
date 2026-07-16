@@ -81,7 +81,7 @@ Learning:
 </p>
 
 I am currently learning and creating projects.
-My future Android apps and coding projects will be added here.
+My future Projects, Application and coding projects will be added here.
 
 ---
 
