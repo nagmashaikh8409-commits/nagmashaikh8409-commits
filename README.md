@@ -1,124 +1,135 @@
-<h1 align="center">Hi 👋, I'm Nagma</h1>
+<h1 align="center">Hi 👋, I'm Nagma Shaikh</h1>
 
 <h3 align="center">
-💻 Developer | 📱 Web Developer in Progress | 🚀 Tech Enthusiast
+💻 Full Stack Developer (Learning) | 🌐 Web Developer | 🚀 Tech Enthusiast
 </h3>
 
 <p align="center">
-<picture>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+👋;Learning+Full+Stack+Development+📱;Exploring+Programming+💻;Building+Projects+🚀"/>
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Learning+Full+Stack+Development;Building+Real+World+Projects;Always+Learning+New+Technologies;Let's+Build+Something+Amazing!" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👩‍💻 About Me
 
-<picture>
-  <img align="right" width="350" src="Image.png">
-</picture>
+<img align="right" alt="Coding" width="350" src="Image.png">
 
-Hello, I'm Nagma 👋
+Hi! I'm **Nagma**, a passionate Computer Engineering student who enjoys learning new technologies and building practical applications.
 
-- 💻 Developer interested in software development
-- 📱 Currently learning Full Stack Development
-- 🚀 Building projects and improving my coding skills
-- 🧠 Interested in problem solving and technology
-- 🌱 Always learning new things
+- 🌱 Currently learning **Full Stack Development**
+- 💻 Interested in **Web Development**
+- 🚀 Building projects to improve my skills
+- 📚 Exploring modern JavaScript and backend technologies
+- 💡 Love solving problems and learning new concepts
+- 🎯 Goal: Become a skilled Software Developer
 
 <br clear="right"/>
 
 ---
 
-## 💻 Languages
+# 🚀 Tech Stack
+
+### 💻 Languages
 
 <p align="left">
-<picture>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&perline=7"/>
-</picture>
-
-
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css&perline=6"/>
 </p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio&perline=6"/>
+</p>
+
+### 🌐 Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql&perline=6"/>
+</p>
+
+- Frontend Development
+- Backend Development
+- REST APIs
+- Database Management
+- Responsive UI Design
 
 ---
 
-## 🛠️ Tools
+# 📂 Projects
 
-<p align="left">
-<picture>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,git,github&perline=5"/>
-</picture>
-</p>
+🚀 **Projects are coming soon!**
 
----
+Currently working on:
 
-## 📱 Full Stack Learning
+- 🌐 Full Stack Web Applications
+- 💻 College Projects
+- 🚍 Smart Transport Operations Platform
+- 📱 JavaScript Applications
 
-<p align="left">
-
-<picture>
-  <img src="https://skillicons.dev/icons?i=js,html,css&perline=7"/>
-</picture>
-
-</p>
-
-Learning:
-- Web Development
-- JavaScript
-- UI Development
-- Backend
-- fronted 
-- Building Web Application
+Stay tuned for more exciting repositories!
 
 ---
 
-## 📂 Projects
+# 📊 GitHub Statistics
 
 <p align="center">
 
-🚀 Projects coming soon...
-
-</p>
-
-I am currently learning and creating projects.
-My future Projects, Application and coding projects will be added here.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagmashaikh8409-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmashaikh8409-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagmashaikh8409-commits&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
-- 🚀 Become a better developer
-- 📱 Build useful Android applications
-- 🌍 Learn and contribute to open source
-- 💡 Improve programming skills
-- 🔥 Keep building and learning
+- 🚀 Become a Full Stack Developer
+- 🌐 Build impactful web applications
+- 💡 Learn modern frameworks and technologies
+- 🤝 Contribute to Open Source
+- 📚 Continuously improve programming skills
 
 ---
 
-## 🤝 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/MickyMaikash">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<a href="https://github.com/nagmashaikh8409-commits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+</p>
+
+<!-- ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nagmashaikh8409-commits&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+--- -->
+
+# ✨ Quote
+
+<p align="center">
+
+> **"Success is built one line of code at a time."** 💻
 
 </p>
 
 ---
 
 <h3 align="center">
-✨ Code • Learn • Build • Repeat 🚀
+
+✨ Thanks for Visiting My Profile
+
 </h3>
