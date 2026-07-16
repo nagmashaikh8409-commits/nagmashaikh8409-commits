@@ -14,7 +14,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="Image.png">
+<picture>
+  <img align="right" width="350" src="Image.png">
+</picture>
 
 Hello, I'm Nagma 👋
 
