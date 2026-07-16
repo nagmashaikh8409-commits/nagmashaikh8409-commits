@@ -52,7 +52,7 @@ Hello, I'm Nagma 👋
 
 ## 📱 Full Stack Learning
 
-<p align="center">
+<p align="left">
 
 <picture>
   <img src="https://skillicons.dev/icons?i=js,html,css&perline=7"/>
